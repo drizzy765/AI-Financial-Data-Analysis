@@ -50,6 +50,6 @@ See the notebook for full details and plots.
 ## License
 MIT License. Feel free to use and contribute!
 
-Author: [AGORO TIMILEHIN]  
+Author: [AGORO TIMILEHIN TESLIM]  
 LinkedIn: [www.linkedin.com/in/agoro-oluwatimilehin-aba2851aa]  
 Date: October 2025
